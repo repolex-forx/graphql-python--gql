@@ -1,0 +1,7 @@
+[2026-10-12T01:31:54Z] === AST ITERATION 1 START | repo=graphql-python/gql sha=6ccc0cc2 ===
+[2026-10-12T01:31:54Z] [iter=1] PHASE START: ast repo=graphql-python/gql sha=6ccc0cc2
+[2026-10-12T01:31:54Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T01:34:00Z] [iter=1] AST chunks built count=1 triples=1159572
+[2026-10-12T01:34:00Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/6ccc0cc2c27e95b19bf2871e7ec3e1b48283c6a0/.complete
+[2026-10-12T01:34:00Z] [iter=1] PHASE END: ast elapsed_s=127 elapsed_min=2.1
+[2026-10-12T01:34:00Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

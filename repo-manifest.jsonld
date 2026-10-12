@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/gql/commit/6ccc0cc2c27e95b19bf2871e7ec3e1b48283c6a0",
       "git:hexsha": "6ccc0cc2c27e95b19bf2871e7ec3e1b48283c6a0",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v4.4.0"
     },
     {
